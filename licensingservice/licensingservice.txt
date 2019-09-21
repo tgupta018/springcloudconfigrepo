@@ -1,0 +1,2 @@
+licensingservice.minimum=99
+licensingservice.maximum=9999
